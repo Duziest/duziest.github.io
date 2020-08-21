@@ -1,1 +1,3 @@
-Duziest's website running off of GitHub Pages
+# duziest.github.io
+
+Duziest's official website
